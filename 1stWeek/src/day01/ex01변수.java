@@ -21,7 +21,8 @@ public class ex01변수 {
 		float number3=(float)3.5f;
 		int number4=(int)number2;
 		
-		
+		//깃허브 테스트용
+		int test = 404;
 	}
 
 }
